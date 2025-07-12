@@ -9,8 +9,9 @@ Hi, I'm Noshaba — a web developer, Python programmer, and AI/ML enthusiast fro
 
 ## Projects
 - 🔗 [Portfolio Website](#) *(coming soon!)*
-- 🔗 [Web Calculator in HTML/CSS/JS](#)
+- 🔗 [Web Calculator in HTML/CSS/JS](https://github.com/noshabaverse/web-calculator)
 - 🔗 [Python Data Cleaner](#)
+
 
 ##  Contact Me
 - [LinkedIn](https://www.linkedin.com/in/noshaba-naseer-988514373/)
