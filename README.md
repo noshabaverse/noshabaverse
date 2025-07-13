@@ -14,7 +14,7 @@ Hi, I'm Noshaba — a web developer, Python programmer, and AI/ML enthusiast fro
 
 
 ##  Contact Me
-- 🔗 LinkesIn: [LinkedIn](https://www.linkedin.com/in/noshaba-naseer-988514373/)
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/noshaba-naseer-988514373/)
 - 📧 Email: noshabanaseerahmed@gmail.com
 
 ---
