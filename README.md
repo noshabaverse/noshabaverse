@@ -8,7 +8,7 @@ Hi, I'm Noshaba — a web developer, Python programmer, and AI/ML enthusiast fro
 - **Learning:** AI, Machine Learning, Data Science
 
 ## Projects
-- 🔗 [Portfolio Website](#)(https://noshabaverse.github.io/portfolio)
+- 🔗 [Portfolio Website](https://noshabaverse.github.io/portfolio)
 - 🔗 [Web Calculator in HTML/CSS/JS](https://noshabaverse.github.io/web-calculator)
 
 
